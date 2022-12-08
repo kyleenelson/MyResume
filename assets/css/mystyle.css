@@ -1,0 +1,79 @@
+.header img {
+    height: 300px;
+    width: 425px;
+    vertical-align: middle;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.title{
+    font-family:'Montserrat', sans-serif;
+    font-size: larger;
+    font-weight: 600;
+}
+
+body{
+    background-color:rgb(242, 239, 198);
+
+}
+
+.header{
+    font-family: 'Inter', sans-serif;
+    vertical-align: middle;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: solid;
+}
+
+.content{
+    font-family:'Merriweather', serif;
+}
+
+.nytimes{
+    text-decoration-color: rgb(33, 30, 25);
+}
+
+body {
+    margin: 0;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: #e95e08;
+}
+
+#video{
+    font-family: 'Inter', sans-serif;
+}
+#facts{
+    font-family:'Inter', sans-serif;
+}
+
+#tab{
+    font-family:'Inter', sans-serif;
+}
+
